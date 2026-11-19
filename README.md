@@ -1,0 +1,1 @@
+# ngkaz-prog-tiny-chess-01
